@@ -1,0 +1,14 @@
+C:\Users\22103\3D Objects\C-SharpCourse\bin\Debug\net10.0\C-SharpCourse.exe
+C:\Users\22103\3D Objects\C-SharpCourse\bin\Debug\net10.0\C-SharpCourse.deps.json
+C:\Users\22103\3D Objects\C-SharpCourse\bin\Debug\net10.0\C-SharpCourse.runtimeconfig.json
+C:\Users\22103\3D Objects\C-SharpCourse\bin\Debug\net10.0\C-SharpCourse.dll
+C:\Users\22103\3D Objects\C-SharpCourse\bin\Debug\net10.0\C-SharpCourse.pdb
+C:\Users\22103\3D Objects\C-SharpCourse\obj\Debug\net10.0\C-SharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22103\3D Objects\C-SharpCourse\obj\Debug\net10.0\C-SharpCourse.AssemblyInfoInputs.cache
+C:\Users\22103\3D Objects\C-SharpCourse\obj\Debug\net10.0\C-SharpCourse.AssemblyInfo.cs
+C:\Users\22103\3D Objects\C-SharpCourse\obj\Debug\net10.0\C-SharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\22103\3D Objects\C-SharpCourse\obj\Debug\net10.0\C-SharpCourse.dll
+C:\Users\22103\3D Objects\C-SharpCourse\obj\Debug\net10.0\refint\C-SharpCourse.dll
+C:\Users\22103\3D Objects\C-SharpCourse\obj\Debug\net10.0\C-SharpCourse.pdb
+C:\Users\22103\3D Objects\C-SharpCourse\obj\Debug\net10.0\C-SharpCourse.genruntimeconfig.cache
+C:\Users\22103\3D Objects\C-SharpCourse\obj\Debug\net10.0\ref\C-SharpCourse.dll
