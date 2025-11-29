@@ -1,0 +1,8 @@
+Conditional statement: if , if-else & if-if-else-else & also switch-case  follow the javascript code same as 
+
+link: https://github.com/2210alphAroni/JS/tree/main/Conditional-statement
+
+
+Looping-statement: for, while & do-while & break & Continue follow bellow
+
+link: https://github.com/2210alphAroni/JS/tree/main/Looping-statement
