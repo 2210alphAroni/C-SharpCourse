@@ -6,3 +6,11 @@ link: https://github.com/2210alphAroni/JS/tree/main/Conditional-statement
 Looping-statement: for, while & do-while & break & Continue follow bellow
 
 link: https://github.com/2210alphAroni/JS/tree/main/Looping-statement
+
+
+
+Arrays: basic + methods + declarations all will be from the link of tutorial and follow the w3 schools
+
+Note: javascript array declared []. But c# arrays declared {}
+
+Link: https://github.com/2210alphAroni/JS/tree/main/Arrays
