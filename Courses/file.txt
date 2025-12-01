@@ -8,6 +8,10 @@ Looping-statement: for, while & do-while & break & Continue follow bellow
 link: https://github.com/2210alphAroni/JS/tree/main/Looping-statement
 
 
+OOP concept:
+I will follow oop concept from w3schools 
+c# tutorials
+
 
 Arrays: basic + methods + declarations all will be from the link of tutorial and follow the w3 schools
 
